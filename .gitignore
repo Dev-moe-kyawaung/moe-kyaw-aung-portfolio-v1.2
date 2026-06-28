@@ -1,0 +1,10 @@
+node_modules/
+.wrangler/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+dist/
+build/
+coverage/
+*.log
