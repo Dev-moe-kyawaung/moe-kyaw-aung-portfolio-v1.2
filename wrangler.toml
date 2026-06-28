@@ -1,0 +1,10 @@
+name = "moe-kyaw-aung-portfolio-v1-1"
+main = "worker.js"
+compatibility_date = "2026-06-28"
+workers_dev = true
+
+[assets]
+directory = "./"
+binding = "ASSETS"
+not_found_handling = "404-page"
+html_handling = "auto-trailing-slash"
